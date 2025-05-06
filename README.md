@@ -29,7 +29,7 @@ Hi, I'm Rishabh Lawaniya – a web developer focused on creating clean, responsi
 Feel free to reach out or connect:
 
 - ✉️ Email: [rishabhlawaniya24@gmail.com](rishabhlawaniya24@gmail.com)
-- 💼 LinkedIn: [MyLinkedIn Profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [MyLinkedIn Profile](https://linkedin.com/in/rishabhlawaniya)
 - 🧑‍💻 GitHub: [@RishabhLawaniya](https://github.com/RishabhLawaniya)
 
 ---
